@@ -1,0 +1,1 @@
+Este es mi archivo encriptado desde Linux en gpg
